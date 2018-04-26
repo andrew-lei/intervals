@@ -2,7 +2,7 @@ Interval arithmetic in Python using Algebraic Data Types
 
 More or less based on [a Haskell package](https://hackage.haskell.org/package/intervals-0.8.1/docs/Numeric-Interval.html).
 
-Contains an [infix class](https://github.com/ActiveState/code) released under MIT License.
+Contains an [infix class](https://github.com/ActiveState/code/tree/master/recipes/Python/384122_Infix_operators) released under PSF License.
 
 Requires uxadt
 
